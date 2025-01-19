@@ -1,0 +1,6 @@
+C:\Users\demon\OneDrive\Documents\GitHub\SharpMUD\SharpMUD.Core\obj\Debug\net8.0\SharpMUD.Core.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Documents\GitHub\SharpMUD\SharpMUD.Core\obj\Debug\net8.0\SharpMUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Documents\GitHub\SharpMUD\SharpMUD.Core\obj\Debug\net8.0\SharpMUD.Core.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Documents\GitHub\SharpMUD\SharpMUD.Core\obj\Debug\net8.0\SharpMUD.Core.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Documents\GitHub\SharpMUD\SharpMUD.Core\obj\Debug\net8.0\SharpMUD.Core.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Documents\GitHub\SharpMUD\SharpMUD.Core\obj\Debug\net8.0\SharpMUD.Core.sourcelink.json
